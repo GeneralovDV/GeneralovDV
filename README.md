@@ -17,11 +17,11 @@
 ![SQL](https://img.shields.io/badge/SQL-090909?style=flat-square&logo=PostgreSQL&logoColor)
 
 ### Testing Documentation
-[Mind maps](https://github.com/GeneralovDV/Mind_maps.git)
-[Checklists]()
-[Test-Cases]()
-[Bug-Reports]()
-[Postman Collections]()
+* [Mind maps](https://github.com/GeneralovDV/Mind_maps.git)
+* [Checklists](https://github.com/GeneralovDV/Checklists.git)
+* [Test-Cases](https://github.com/GeneralovDV/Test-cases.git)
+* [Bug-Reports](https://github.com/GeneralovDV/Bug-reports.git)
+* [Postman Collections](https://github.com/GeneralovDV/Postman-Collections.git)
 
 
 Contacts
