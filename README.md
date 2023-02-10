@@ -2,10 +2,10 @@
 
 ## I'm a beginner QA Engineer
 
-## My CV
+### My CV
 [Link to my CV](https://github.com/GeneralovDV/generalovdv/blob/a9a1b629f741e60149c7ea4bd6092c14a2ea0902/CV/Generalov%20CV.pdf)
 
-## Languagest and Tools
+### Languagest and Tools
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=flat-square&logo=dev.to&logoColor=47C5FB) 
 ![Postman](https://img.shields.io/badge/Postman-090909?style=flat-square&logo=postman&logoColor)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=flat-square&logo=Swagger&logoColor)
@@ -16,7 +16,12 @@
 ![Java](https://img.shields.io/badge/Java-090909?style=flat-square&logo=IntelliJIDEA&logoColor) 
 ![SQL](https://img.shields.io/badge/SQL-090909?style=flat-square&logo=PostgreSQL&logoColor)
 
-Testing Documentation
+### Testing Documentation
+[Mind maps](https://github.com/GeneralovDV/Mind_maps.git)
+[Checklists]()
+[Test-Cases]()
+[Bug-Reports]()
+[Postman Collections]()
 
 
 Contacts
