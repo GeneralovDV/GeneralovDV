@@ -24,4 +24,5 @@
 * [Postman Collections](https://github.com/GeneralovDV/Postman-Collections.git)
 
 
-Contacts
+### Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=Telegram&logoColor)](https://t.me/Dim_psk) 
