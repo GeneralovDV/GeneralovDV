@@ -3,7 +3,7 @@
 ## I'm a beginner QA Engineer
 
 ### My CV
-[Link to my CV](https://github.com/GeneralovDV/generalovdv/blob/a9a1b629f741e60149c7ea4bd6092c14a2ea0902/CV/Generalov%20CV.pdf)
+[Link to my CV](https://github.com/GeneralovDV/generalovdv/blob/bd048169b27986411d1556b8f83ac356cac126be/CV/CV_Generalov.pdf)
 
 ### Languagest and Tools
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=flat-square&logo=dev.to&logoColor=47C5FB) 
